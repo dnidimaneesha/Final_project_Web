@@ -74,8 +74,8 @@ function NewProduct() {
                         </Form.Group>
 
                         <Form.Group className="mb-3">
-                            <Form.Label>Price($)</Form.Label>
-                            <Form.Control type="number" placeholder="Price ($)" value={price} required onChange={(e) => setPrice(e.target.value)} />
+                            <Form.Label>Price (LKR)</Form.Label>
+                            <Form.Control type="number" placeholder="Price (LKR)" value={price} required onChange={(e) => setPrice(e.target.value)} />
                         </Form.Group>
 
                         <Form.Group className="mb-3" onChange={(e) => setCategory(e.target.value)}>
