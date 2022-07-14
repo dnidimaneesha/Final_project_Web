@@ -28,11 +28,11 @@
 }
 
 .image-preview i:hover {
-    color: orange;
+    color: rgb(184, 72, 160);
 }
 
 .new-product__image--container {
-    background-image: url(https://images.unsplash.com/photo-1652773899966-583e9d2f2fb0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHRlY2h8ZW58MHwxfDB8d2hpdGV8&auto=format&fit=crop&w=800&q=60);
+    background-image: url(https://i.pinimg.com/564x/38/f2/48/38f248ed0ea488eae193ef7517358ef7.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
