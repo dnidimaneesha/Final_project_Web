@@ -99,10 +99,10 @@ function EditProductPage() {
                                 <option disabled selected>
                                     -- Select One --
                                 </option>
-                                <option value="technology">technology</option>
-                                <option value="tablets">tablets</option>
-                                <option value="phones">phones</option>
-                                <option value="laptops">laptops</option>
+                                <option value="Makeup Items">Makeup items</option>
+                                <option value="Skin Care">Skin Care</option>
+                                <option value="Hair & Body">Hair & Body</option>
+                                <option value="Makeup Tools">Makeup Tools</option>
                             </Form.Select>
                         </Form.Group>
 

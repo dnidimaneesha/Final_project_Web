@@ -1,14 +1,21 @@
 const categories = [
     {
-        name: "Technology",
-        img: "https://images.unsplash.com/photo-1518997554305-5eea2f04e384?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+        name: "Makeup items",
+        img: "https://i.pinimg.com/564x/fa/e8/6c/fae86c52a4972c5f7e7753d25bdab3e8.jpg",
     },
     {
-        name: "Phones",
-        img: "https://images.unsplash.com/photo-1464380573004-8ca85a08751a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cGhvbmV8ZW58MHx8MHx3aGl0ZXw%3D&auto=format&fit=crop&w=800&q=60",
+        name: "Skin Care",
+        img: "https://i.pinimg.com/564x/0d/f7/71/0df7711c08dd97e358dc8d65cf03f5fe.jpg",
     },
 
-    { name: "Laptops", img: "https://images.unsplash.com/photo-1575909812264-6902b55846ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" },
+    { name: "Hair & Body", img: "https://i.pinimg.com/564x/15/d4/cd/15d4cd7a5d93663d187bfe9c7b07690a.jpg" },
+
+    { name: "Makeup Tools", img: "https://i.pinimg.com/564x/d8/d8/41/d8d8419eafd7a937550ade77bdb5183e.jpg" },
+
+    { name: "nailpolish & Tools", img: "https://i.pinimg.com/564x/c3/fa/5f/c3fa5f3b8a32583695d797de71dbfe74.jpg" },
+
+    { name: "Gifts", img: "https://i.pinimg.com/564x/89/be/c8/89bec87a69a984225764c0605be33602.jpg" },
+
 ];
 
 export default categories;
