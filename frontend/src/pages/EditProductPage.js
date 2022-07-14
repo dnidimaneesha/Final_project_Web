@@ -103,6 +103,8 @@ function EditProductPage() {
                                 <option value="Skin Care">Skin Care</option>
                                 <option value="Hair & Body">Hair & Body</option>
                                 <option value="Makeup Tools">Makeup Tools</option>
+                                <option value="Nail polish & Tools">Nail Polish & Tools</option>
+                                <option value="Gifts">Gifts</option>
                             </Form.Select>
                         </Form.Group>
 
