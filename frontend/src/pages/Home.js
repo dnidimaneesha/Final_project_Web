@@ -19,7 +19,7 @@ function Home() {
     return (
         <div>
         {/* Home banner */}
-            <img alt="sale banner" src={require('../images/Homebanner.png')} />
+            <img alt="sale banner" src={require('../images/Home_banner.png')} />
             <div className="featured-products-container container mt-4">
                 <h2>Last products</h2>
                 {/* last products  */}
