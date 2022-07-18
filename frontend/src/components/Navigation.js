@@ -30,7 +30,7 @@ function Navigation() {
     }
 
     return (
-        <Navbar bg="light" expand="lg">
+        <Navbar bg="dark" variant="dark" expand="lg" collapseOnSelect>
             <Container>
                 <LinkContainer to="/">
                     <Navbar.Brand>BEAUTY ONLINE STORE</Navbar.Brand>
