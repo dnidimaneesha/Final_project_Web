@@ -84,12 +84,12 @@ function NewProduct() {
                                 <option disabled selected>
                                     -- Select One --
                                 </option>
-                                <option value="Makeup Items">Makeup items</option>
-                                <option value="Skin Care">Skin Care</option>
-                                <option value="Hair & Body">Hair & Body</option>
-                                <option value="Makeup Tools">Makeup Tools</option>
-                                <option value="Nail polish & Tools">Nail Polish & Tools</option>
-                                <option value="Gifts">Gifts</option>
+                                <option value="makeup">makeup</option>
+                                <option value="skincare">skincare</option>
+                                <option value="haircare">haircare</option>
+                                <option value="nails">nails</option>
+                                <option value="bath&body">bath&body</option>
+                                <option value="gifts">nails</option>
                             </Form.Select>
                         </Form.Group>
 
