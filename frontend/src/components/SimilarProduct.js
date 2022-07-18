@@ -9,7 +9,7 @@ function SimilarProduct({ _id, name, category, pictures }) {
                 <Card.Img variant="top" className="product-preview-img" src={pictures[0].url} style={{ height: "150px", objectFit: "cover" }} />
                 <Card.Body>
                     <Card.Title>{name}</Card.Title>
-                    <Badge bg="warning" text="dark">
+                    <Badge bg="dark" text="light">
                         {category}
                     </Badge>
                 </Card.Body>
