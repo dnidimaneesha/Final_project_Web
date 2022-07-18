@@ -89,7 +89,7 @@ function NewProduct() {
                                 <option value="haircare">haircare</option>
                                 <option value="nails">nails</option>
                                 <option value="bath&body">bath&body</option>
-                                <option value="gifts">nails</option>
+                                <option value="gifts">gifts</option>
                             </Form.Select>
                         </Form.Group>
 
