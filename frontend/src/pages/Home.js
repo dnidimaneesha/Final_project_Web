@@ -36,7 +36,7 @@ function Home() {
             </div>
             {/* sale banner */}
             <div className="sale__banner--container mt-4">
-            <img alt="timer" src={require('../images/new3.png')} />
+            <img alt="timer" src={require('../images/Sale.png')} />
             </div>
             <div className="recent-products-container container mt-4">
                 <h2>Categories</h2>
