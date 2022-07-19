@@ -59,7 +59,7 @@ function CartPage() {
                                                 {!isLoading && <i className="fa fa-times" style={{ marginRight: 10, cursor: "pointer" }} onClick={() => removeFromCart({ productId: item._id, price: item.price, userId: user._id })}></i>}
                                                 <img src={item.pictures[0].url} style={{ width: 100, height: 100, objectFit: "cover" }} />
                                             </td>
-                                            <td>${item.price}</td>
+                                            <td>LKR.{item.price}</td>
                                             <td>
                                                 <span className="quantity-indicator">
                                                     <i className="fa fa-minus-circle" onClick={() => handleDecrease({ productId: item._id, price: item.price, userId: user._id })}></i>
@@ -73,7 +73,7 @@ function CartPage() {
                                 </tbody>
                             </Table>
                             <div>
-                                <h3 className="h4 pt-4">Total: ${user.cart.total}</h3>
+                                <h3 className="h4 pt-4">Total: LKR.{user.cart.total}</h3>
                             </div>
                         </>
                     </Col>

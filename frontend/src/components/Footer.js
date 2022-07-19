@@ -12,8 +12,8 @@ const Footer = () => {
         </Row>
         <Row>
           <Col className='text-center py-3' >
-          ❤️contact with us❤️<br></br>
-                📱 076584527<br></br>
+          Contact With Us<br></br>
+            📞 076584527<br></br>
                 🏠 Matara ,Morawaka, Sri Lanka
 
           </Col>
