@@ -39,11 +39,11 @@
 }
 
 .notification-read {
-    background-color: lightblue;
+    background-color: rgb(58, 2, 80);
 }
 
 .notification-unread {
-    background-color: lightcoral;
+    background-color: rgb(220, 66, 66);
 }
 .fas[data-count] {
     position: relative;
