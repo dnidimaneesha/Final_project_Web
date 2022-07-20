@@ -21,8 +21,8 @@ function Home() {
         {/* Home banner */}
             <img alt="sale banner" src={require('../images/Home_banner.png')} />
             <div className="featured-products-container container mt-4">
-                <h2>Last products</h2>
-                {/* last products  */}
+                <h2>Letest products</h2>
+                {/* letest products  */}
                 <div className="d-flex justify-content-center flex-wrap">
                     {lastProducts.map((product) => (
                         <ProductPreview {...product} />
